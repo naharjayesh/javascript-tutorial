@@ -15,7 +15,7 @@ document.getElementById('add-button').addEventListener(
         /* let message = document.createTextNode('Message node (visible in Child 1)');
         childElement.append(message); */ 
 
-        let string = 'Code ' + i;
+        let string = 'Child ' + i;
         childElement.innerHTML = string;
         childElement.className = 'createdChild';
         let parentElement = document.querySelector('ul.parent');
