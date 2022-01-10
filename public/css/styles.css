@@ -1,0 +1,21 @@
+body {
+    margin-left: 1rem;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
+
+.parent {
+    margin-bottom: 3rem;
+}
+
+.button {
+    background-color: #f53163;
+    color: white;
+    padding: 1rem 1.5rem;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10%;
+    margin-left: 1rem;
+}
